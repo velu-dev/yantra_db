@@ -1,0 +1,1 @@
+parts_count,machine_status,job_id,machine_id,created_at,updated_at,total_run_time,total_cutting_time,run_time,feed_rate,cutting_speed,spindle_speed,spindle_load,axis_load,axis_name,programe_number,programe_description,run_second,total_run_second
